@@ -1,0 +1,7 @@
+{
+  "name": "GlowMe",
+  "description": "A premium wellness and skincare tracker designed to nurture your inner light and track your skin's health.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
